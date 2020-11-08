@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="34d0c989-591f-45b3-8787-a1af0f717325" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Go File" />
+      </list>
+    </option>
+  </component>
+  <component name="GOROOT" path="C:\Go" />
+  <component name="ProjectId" id="1k1XNOrKpXw5nkuIl9le6E3bINp" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DefaultGoTemplateProperty" value="Go File" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="go.import.settings.migrated" value="true" />
+    <property name="go.sdk.automatically.set" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+  </component>
+  <component name="RunManager">
+    <configuration name="go build github.com/masiv" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
+      <module name="masiv" />
+      <working_directory value="$PROJECT_DIR$" />
+      <kind value="PACKAGE" />
+      <filePath value="$PROJECT_DIR$/main.go" />
+      <package value="github.com/masiv" />
+      <directory value="$PROJECT_DIR$" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Go Build.go build github.com/masiv" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="34d0c989-591f-45b3-8787-a1af0f717325" name="Default Changelist" comment="" />
+      <created>1604869030544</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1604869030544</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="457" y="170" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1604870628809">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state x="457" y="170" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1366.738/1366.-130.1600.870@0.0.1366.738" timestamp="1604870628809" />
+    <state width="1323" height="227" key="GridCell.Tab.0.bottom" timestamp="1604871270710">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state width="1323" height="227" key="GridCell.Tab.0.bottom/0.0.1366.738/1366.-130.1600.870@0.0.1366.738" timestamp="1604871270710" />
+    <state width="1323" height="227" key="GridCell.Tab.0.center" timestamp="1604871270710">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state width="1323" height="227" key="GridCell.Tab.0.center/0.0.1366.738/1366.-130.1600.870@0.0.1366.738" timestamp="1604871270710" />
+    <state width="1323" height="227" key="GridCell.Tab.0.left" timestamp="1604871270709">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state width="1323" height="227" key="GridCell.Tab.0.left/0.0.1366.738/1366.-130.1600.870@0.0.1366.738" timestamp="1604871270709" />
+    <state width="1323" height="227" key="GridCell.Tab.0.right" timestamp="1604871270710">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state width="1323" height="227" key="GridCell.Tab.0.right/0.0.1366.738/1366.-130.1600.870@0.0.1366.738" timestamp="1604871270710" />
+    <state x="296" y="0" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser" timestamp="1604870338247">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state x="296" y="0" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser/0.0.1366.738/1366.-130.1600.870@0.0.1366.738" timestamp="1604870338247" />
+  </component>
+</project>
